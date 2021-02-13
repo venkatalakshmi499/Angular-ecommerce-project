@@ -1,0 +1,25 @@
+.navbar-custom {
+    background-color:#1b0679!important;
+}
+.nav-link, .navbar-brand {
+    color:#ddd;
+    font-size: 20px;
+}
+.cart_icon{
+    position: relative;
+}
+.cart_icon i{
+    font-size: 24px;
+    color:brown;
+}
+.cart_value{
+    position: absolute;
+    top: -16px;
+    right: -32px;
+    background: brown;
+    border:1px solid #ccc;
+    border-radius: 50%;
+    padding: 4px 10px;
+    font-weight: 800;
+    font-size: 16px;
+}

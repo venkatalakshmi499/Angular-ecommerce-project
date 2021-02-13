@@ -1,0 +1,312 @@
+{
+  "product": [
+    {
+      "categoryId": 2,
+      "productName": "Party wear Shirt",
+      "descriptions": "description for first shirt",
+      "rating": "",
+      "price": "400",
+      "productImg": "",
+      "isAvailable": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "productName": "Party wear Shirt",
+      "categoryId": 2,
+      "descriptions": "description for second shirt",
+      "price": 200,
+      "is_available": true,
+      "productImg": "/assets/images/s6.jpg",
+      "rating": 3,
+      "review": 120,
+      "vendor_name": "abc shop",
+      "waranty": 1
+    },
+    {
+      "id": 3,
+      "productName": "Formal wear Shirt",
+      "categoryId": 2,
+      "descriptions": "description for third shirt",
+      "price": 500,
+      "is_available": true,
+      "productImg": "/assets/images/s3.jpg",
+      "rating": 1,
+      "review": 100,
+      "vendor_name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 4,
+      "productName": "Casual Shirt",
+      "categoryId": 2,
+      "descriptions": "description for fourth shirt",
+      "price": 700,
+      "is_available": true,
+      "productImg": "/assets/images/s4.jpg",
+      "rating": 1,
+      "review": 100,
+      "vendor_name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "Casual Shirt",
+      "categoryId": 2,
+      "descriptions": "description for fifth shirt",
+      "price": 500,
+      "is_available": true,
+      "productImg": "/assets/images/s5.jpg",
+      "rating": 1,
+      "review": 100,
+      "vendor_name": "agg shop",
+      "waranty": 1
+    },
+    {
+      "id": 6,
+      "productName": "Formal Men Shirt",
+      "categoryId": 2,
+      "descriptions": "description for fifth shirt",
+      "price": 650,
+      "is_available": true,
+      "productImg": "/assets/images/s7.jpg",
+      "rating": 1,
+      "review": 100,
+      "vendor_name": "amajon shop",
+      "waranty": 1
+    },
+    {
+      "id": 7,
+      "productName": "Lenova Laptop",
+      "categoryId": 1,
+      "descriptions": "Lenova core 310 Quad Core (4gb ram)i3",
+      "price": 23000,
+      "is_available": true,
+      "productImg": "/assets/images/l1.jpg",
+      "rating": 4,
+      "review": 100,
+      "vendor_name": "amajon shop",
+      "waranty": 1
+    },
+    {
+      "id": 8,
+      "productName": "Lenova Laptop",
+      "categoryId": 1,
+      "descriptions": "Lenova IdeaCenter Pentium Quad Core(4GB DDR3/1 TB",
+      "price": 27990,
+      "is_available": true,
+      "productImg": "/assets/images/l2.jpg",
+      "rating": 5,
+      "review": 400,
+      "vendor_name": "amajon shop",
+      "waranty": 1
+    },
+    {
+      "id": 9,
+      "productName": "Asus Laptop",
+      "categoryId": 1,
+      "descriptions": "Asus Pentium Quad Core (4gb ram)i5 DDR3/500 GB/WINDOWS 10",
+      "price": 33900,
+      "is_available": true,
+      "productImg": "/assets/images/l3.jpg",
+      "rating": 3,
+      "review": 500,
+      "vendor_name": "amajon shop",
+      "waranty": 1
+    },
+    {
+      "id": 10,
+      "productName": "HP Laptop",
+      "categoryId": 1,
+      "descriptions": "HP Pavilion Core i5(4GB DDR4/1 TB /WINDOWS 10 Home)",
+      "price": 59900,
+      "is_available": true,
+      "productImg": "/assets/images/l1.jpg",
+      "rating": 4,
+      "review": 100,
+      "vendor_name": "Flipcart shop",
+      "waranty": 1
+    },
+    {
+      "id": 11,
+      "productName": "Sofa Bed",
+      "categoryId": 4,
+      "descriptions": "Forzza Vernon Single Solid Wood Sofa Bed",
+      "price": 16899,
+      "is_available": true,
+      "productImg": "/assets/images/f1.jpg",
+      "rating": 3.5,
+      "review": 100,
+      "vendor_name": "amajon shop",
+      "waranty": 1
+    },
+    {
+      "id": 12,
+      "productName": "Sofa Bed",
+      "categoryId": 4,
+      "descriptions": "Forzza Vernon Three Solid Wood Sofa Bed",
+      "price": 33900,
+      "is_available": true,
+      "productImg": "/assets/images/f2.jpg",
+      "rating": 1,
+      "review": 100,
+      "vendor_name": "amajon shop",
+      "waranty": 1
+    },
+    {
+      "id": 13,
+      "productName": "Dining Table",
+      "categoryId": 4,
+      "descriptions": "Enigmatic Woodworks Wooden multi-function portable and foldable bed table.",
+      "price": 10900,
+      "is_available": true,
+      "productImg": "/assets/images/f3.jpg",
+      "rating": 1,
+      "review": 100,
+      "vendor_name": "amajon shop",
+      "waranty": 1
+    },
+    {
+      "id": 14,
+      "productName": "Dressing Table",
+      "categoryId": 4,
+      "descriptions": "Crystal Furnitech Elfin Engineered Wood Dressing Table  (Finish Color - Wallnut + White)",
+      "price": 9400,
+      "is_available": true,
+      "productImg": "/assets/images/f4.jpg",
+      "rating": 1,
+      "review": 100,
+      "vendor_name": "amajon shop",
+      "waranty": 1
+    },
+    {
+      "id": 15,
+      "productName": "Party Kurta",
+      "categoryId": 5,
+      "descriptions": "Boys Festive & Party Kurta, Dhoti Pant & Dupatta Set  (Gold Pack of 1)",
+      "price": 300,
+      "is_available": true,
+      "productImg": "/assets/images/b1.jpeg",
+      "rating": 2,
+      "review": 100,
+      "vendor_name": "FTC Fashions ",
+      "waranty": 1
+    },
+    {
+      "id": 16,
+      "productName": "Army Kids Costume Wear",
+      "categoryId": 5,
+      "descriptions": "FTC Bazar Army Kids Costume Wear",
+      "price": 340,
+      "is_available": true,
+      "productImg": "/assets/images/b2.jpeg",
+      "rating": 4,
+      "review": 100,
+      "vendor_name": "FTC Fashions ",
+      "waranty": 1
+    },
+    {
+      "id": 17,
+      "productName": "fancy Wear",
+      "categoryId": 5,
+      "descriptions": "Girls Below Knee Casual Dress  (Multicolor, Sleeveless)",
+      "price": 240,
+      "is_available": true,
+      "productImg": "/assets/images/b3.jpeg",
+      "rating": 4,
+      "review": 100,
+      "vendor_name": "Chandrika Fashions ",
+      "waranty": 1
+    },
+    {
+      "id": 18,
+      "productName": "Full Length Anarkali dresses ",
+      "categoryId": 5,
+      "descriptions": "Girls Maxi/Full Length Casual Dress  (Black, 3/4 Sleeve)",
+      "price": 200,
+      "is_available": true,
+      "productImg": "/assets/images/b4.jpeg",
+      "rating": 4,
+      "review": 100,
+      "vendor_name": "FTC FASHIONS  ",
+      "waranty": 1
+    },
+    {
+      "id": 19,
+      "productName": "Women Maxi Pink Dress ",
+      "categoryId": 3,
+      "descriptions": "Girls Maxi/Full Length Casual Dress  (Black, 3/4 Sleeve)",
+      "price": 699,
+      "is_available": true,
+      "productImg": "/assets/images/w1.jpeg",
+      "rating": 4,
+      "review": 100,
+      "vendor_name": "HELLO DESIGN   ",
+      "waranty": 1
+    },
+    {
+      "id": 20,
+      "productName": "Women A-line Multicolor Dress ",
+      "categoryId": 3,
+      "descriptions": "Women A-line Multicolor Dress  (Black, 3/4 Sleeve)",
+      "price": 399,
+      "is_available": true,
+      "productImg": "/assets/images/w2.jpeg",
+      "rating": 4,
+      "review": 100,
+      "vendor_name": "PAVITRA ",
+      "waranty": 1
+    },
+    {
+      "id": 21,
+      "productName": "Women Gown Blue Dress",
+      "categoryId": 3,
+      "descriptions": "Women Gown Blue Dress (Black, 3/4 Sleeve)",
+      "price": 391,
+      "is_available": true,
+      "productImg": "/assets/images/w3.jpeg",
+      "rating": 4,
+      "review": 100,
+      "vendor_name": "Frionkandy  ",
+      "waranty": 1
+    },
+    {
+      "id": 23,
+      "categoryId": "43",
+      "productName": "Redmi 9 Prime",
+      "descriptions": "",
+      "rating": "",
+      "price": "",
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "Mint Green",
+      "reviews": "43"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 2,
+      "categoryName": "Men"
+    },
+    {
+      "id": 3,
+      "categoryName": "WoMen"
+    },
+    {
+      "id": 4,
+      "categoryName": "Home & Furniture"
+    },
+    {
+      "id": 5,
+      "categoryName": "Baby & Kids"
+    }
+  ],
+  "cartDetails": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
